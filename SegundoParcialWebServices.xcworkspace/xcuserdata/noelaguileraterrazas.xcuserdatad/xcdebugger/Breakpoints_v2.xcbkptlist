@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3A29EE92-98B2-49D1-B669-BA8BC87BBD56"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1A974EAB-5A44-4934-9A47-4608197BC2F1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SegundoParcialWebServices/TeamMemberCollectionViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "TeamMemberCollectionViewCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "1A974EAB-5A44-4934-9A47-4608197BC2F1 - d10ca3156887fcdf"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SegundoParcialWebServices.TeamMemberCollectionViewCell.lblName.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "SegundoParcialWebServices"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noelaguileraterrazas/Documents/escuela/DanielAguileraiOS2020/SegundoParcialWebServices/SegundoParcialWebServices/TeamMemberCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "1A974EAB-5A44-4934-9A47-4608197BC2F1 - 750cf4d6cbd58933"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SegundoParcialWebServices.TeamMemberCollectionViewCell.lblName.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "SegundoParcialWebServices"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noelaguileraterrazas/Documents/escuela/DanielAguileraiOS2020/SegundoParcialWebServices/SegundoParcialWebServices/TeamMemberCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "1A974EAB-5A44-4934-9A47-4608197BC2F1 - d7ed679414464c87"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SegundoParcialWebServices.TeamMemberCollectionViewCell.lblName.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "SegundoParcialWebServices"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noelaguileraterrazas/Documents/escuela/DanielAguileraiOS2020/SegundoParcialWebServices/SegundoParcialWebServices/TeamMemberCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "67">
+               </Location>
+               <Location
+                  uuid = "1A974EAB-5A44-4934-9A47-4608197BC2F1 - e3972587a8fb665b"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SegundoParcialWebServices.TeamMemberCollectionViewCell.lblName.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "SegundoParcialWebServices"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noelaguileraterrazas/Documents/escuela/DanielAguileraiOS2020/SegundoParcialWebServices/SegundoParcialWebServices/TeamMemberCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "1A974EAB-5A44-4934-9A47-4608197BC2F1 - c2d02f233a0fe575"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SegundoParcialWebServices.TeamMemberCollectionViewCell.init(frame: __C.CGRect) -&gt; SegundoParcialWebServices.TeamMemberCollectionViewCell"
+                  moduleName = "SegundoParcialWebServices"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noelaguileraterrazas/Documents/escuela/DanielAguileraiOS2020/SegundoParcialWebServices/SegundoParcialWebServices/TeamMemberCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "1A974EAB-5A44-4934-9A47-4608197BC2F1 - 7ffa75c12b6537bd"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SegundoParcialWebServices.TeamMemberCollectionViewCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;SegundoParcialWebServices.TeamMemberCollectionViewCell&gt;"
+                  moduleName = "SegundoParcialWebServices"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noelaguileraterrazas/Documents/escuela/DanielAguileraiOS2020/SegundoParcialWebServices/SegundoParcialWebServices/TeamMemberCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "107">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
